@@ -1,0 +1,49 @@
+.heading {
+    align-items: center;
+    color: red; 
+    background-color: azure;
+    text-transform: uppercase;
+    text-align: center;
+    height: 200px;
+
+    margin: 25px 50px;
+}
+
+#title{
+    background-color: rgb(161, 157, 155);
+    text-decoration: overline;
+    text-shadow: 2px 2px;
+    margin: 25px 50px;
+    padding: 25px 50px;
+
+}
+
+.main{
+    text-align: center;
+    margin: 25px 50px;
+    padding: 25px 50px;
+}
+
+.tribute-info{
+    text-indent: 50px;
+    text-align: left;
+    border-style: dotted;
+    border-width: 5px;
+}
+
+#life{
+    text-align: center;
+    
+}
+
+.image-div{
+    padding: 25px;
+}
+
+#image{
+    border-radius: 30%;
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}

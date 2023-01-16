@@ -1,1 +1,1 @@
-# tribute page for microverse application
+# tribute page for microverse application challenge
